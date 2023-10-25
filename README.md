@@ -1,0 +1,2 @@
+# connectorBI
+powerbi_connector_mailchimp
